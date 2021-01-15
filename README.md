@@ -72,7 +72,7 @@ $ git push origin my-feature
 <h2 align="center">Licença 📝</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/JayGiG/happy/blob/master/LICENSE"> LICENSE </a> para mais detalhes. 😉
+   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/JayGiG/robo_conversor_de_moedas/blob/master/LICENSE"> LICENSE </a> para mais detalhes. 😉
 </p>
 
 ---
