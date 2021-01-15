@@ -26,7 +26,7 @@
 
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://www.javascript.com/)
-- [Puppeteer](hhttps://github.com/puppeteer/puppeteer)
+- [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 
 
